@@ -1,7 +1,7 @@
 import "./FeedStyle.css";
 
 const FeedOption = ({
-    onLeaveFeedback
+    onLeaveFeedback 
 }) => {
     return(
         <div>
